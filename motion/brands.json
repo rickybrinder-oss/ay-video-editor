@@ -13,5 +13,23 @@
   },
   "handle": "Your Business",
   "clips": "motion/clips/"
+ },
+ "tantushka": {
+  "name": "טנטושקה",
+  "name_en": "Tantushka by Ricky Brinder",
+  "niche": "מזכרות לאורחים לאירועים: נרות שעווה מעוצבים",
+  "language": "he",
+  "colors": {
+   "ink": "#221E1B",
+   "rose": "#B8606F",
+   "gold": "#B08A44",
+   "gold_light": "#E9C98A",
+   "ivory": "#FBF7F1",
+   "blush": "#F4E6E2"
+  },
+  "handle": "טנטושקה",
+  "phone": "053-8818890",
+  "logo_note": "Black line logo with a butterfly on the left; the butterfly flies through the video and lands on the logo at the end.",
+  "clips": "motion/clips/"
  }
 }
