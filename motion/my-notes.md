@@ -1,0 +1,1 @@
+- 2026-10-15: Never warp or distort people's faces in photos (the user rejected a face-squish effect as 'really distorted'). Real people must keep their real faces.
